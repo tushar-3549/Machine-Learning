@@ -1,0 +1,8 @@
+Days,Temparature,Outlook,Routine,Wear Jacket?
+1,Cold,Sunny,Indoor,No
+2,Warm,Sunny,Outdoor,No
+3,Warm,Cloudy,Indoor,No
+4,Warm,Sunny,Indoor,No
+5,Cold,Cloudy,Indoor,Yes
+6,Cold,Cloudy,Outdoor,Yes
+7,Cold,Sunny,Outdoor,Yes
